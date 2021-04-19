@@ -1,8 +1,7 @@
 module.exports = {
     name: "ping",
-    category: "info",
-    description: "Returns latency and API ping",
+    description: "Returns ping",
     run: async (client, message, args) => {
-       message.channel.send(`Pong - ${client.ws.ping}ms`)
+       message.channel.send(` ${client.ws.ping}ms`)
     }
 }
