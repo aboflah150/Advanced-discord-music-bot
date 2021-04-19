@@ -1,7 +1,7 @@
 {
-  "name": "MUSIC-BOT",
-  "version": "0.0.1",
-  "description": "DISCORD.JS LETEST MUSIC BOT",
+  "name": "Music-ot",
+  "version": "1.0.0",
+  "description": "A music discord bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -31,9 +31,9 @@
   },
   "license": "MIT",
   "keywords": [
-    "PARAS",
-    "MUSIC",
-    "PARAS-GAMING"
+    "AMEN",
+    "AMEN",
+    "MURDER-AMEEN"
   ],
-  "author": ""
+  "author": "Ameen"
 }
