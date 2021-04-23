@@ -41,4 +41,4 @@ client.on("message", async message => {
         command.run(client, message, args);
 });
 
-client.login(token); // if you are not on replit use client.login('TOKEN HERE')
+client.login('NzM0NDk2NTcxMDE3Nzg5NDQx.XxSjPA.vBw8g3zbz5zayorghMY3GfCO7m0'); // if you are not on replit use client.login('TOKEN HERE')
