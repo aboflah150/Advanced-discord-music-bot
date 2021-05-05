@@ -1,4 +1,4 @@
-//const db = require('quick.db')
+const db = require('quick.db')
 
 const { Client, Collection } = require("discord.js");
 const {default_prefix} = require("./configuration/config.json")
