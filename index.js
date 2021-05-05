@@ -1,4 +1,4 @@
-const db = require('quick.db')
+//const db = require('quick.db')
 
 const { Client, Collection } = require("discord.js");
 const {default_prefix} = require("./configuration/config.json")
@@ -40,4 +40,4 @@ client.on("message", async message => {
         command.run(client, message, args);
 });
 
-client.login(process.env.TOKEN); // if you are not on replit use client.login('TOKEN HERE')
+client.login(process.env.['TOKEN']); // if you are not on replit use client.login('TOKEN HERE')

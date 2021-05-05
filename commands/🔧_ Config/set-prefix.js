@@ -1,5 +1,5 @@
 const { default_prefix } = require("../../configuration/config.json")
-const db = require("quick.db")
+//const db = require("quick.db")
 const color = require('../../configuration/colors.json')
 const footer = require('../../configuration/footer.json')
 
